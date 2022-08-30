@@ -1,0 +1,12 @@
+main {
+  background-color: white;
+  width: 600px;
+  margin: 2rem auto;
+}
+
+.container {
+  display: flex;
+  gap: 1.8rem;
+  padding: 1rem 3rem;
+  text-align: left;
+}
